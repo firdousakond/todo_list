@@ -1,0 +1,29 @@
+<resources>
+    <string name="todo_list">Todo List</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="hint_description">Enter Description</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date &amp; Time</string>
+    <string name="select_date_time">Select Date &amp; Time</string>
+    <string name="submit">Submit</string>
+    <string name="select_date">Select Date</string>
+    <string name="okay">Okay</string>
+    <string name="done">Done</string>
+    <string name="select_time">Select Time</string>
+    <string name="create_todo">Create Todo</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="error_title">Please Enter Title</string>
+    <string name="error_description">Please Enter Description</string>
+    <string name="error_date_time">Please Select Date &amp; Time</string>
+    <string name="todo_success">Task created successfully</string>
+    <string name="todo_success_status">Task updated successfully</string>
+
+    <string name="todo_error">Something went wrong</string>
+    <string name="status">Status:&#160;</string>
+    <string name="task_details">Task Details</string>
+    <string name="mark_completed">mark As Completed</string>
+    <string name="no_task_found">No Task Found</string>
+</resources>

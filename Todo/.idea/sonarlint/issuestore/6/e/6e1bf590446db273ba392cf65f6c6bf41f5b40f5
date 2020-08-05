@@ -1,0 +1,15 @@
+
+N
+java:S1874i"8Remove this use of "getCurrentMinute"; it is deprecated.(â°¼
+M
+java:S1874c"8Remove this use of "setCurrentMinute"; it is deprecated.(×»Á
+L
+java:S1874d"6Remove this use of "setCurrentHour"; it is deprecated.(ñäŸ—
+L
+java:S1874d"6Remove this use of "getCurrentHour"; it is deprecated.(ñäŸ—
+M
+java:S1874c"8Remove this use of "getCurrentMinute"; it is deprecated.(×»Á
+L
+java:S1874i"6Remove this use of "getCurrentHour"; it is deprecated.(â°¼
+Y
+java:S1128"7Remove this unused import 'android.widget.ImageButton'.(‚ÏÉõÿÿÿÿÿ8Â¶åä».
